@@ -1,0 +1,63 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#firstone{
+	color:white;
+	height:700px;
+	width:100%;
+text-align:center;
+}
+.center {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+#secondone{
+	background-color:rgb(173,211,0);
+	width:100%;
+	height:250px;
+	padding-top:10px;
+	
+}
+#thirdone{
+	
+	padding-top:30px;
+	
+}
+.media-heading{
+	
+	font-size:40px;
+	
+	
+}
+#forthone{
+	background-color:black;
+	width:100%;
+	height:500px;
+	padding-top:30px;
+	margin-top:37px;
+}
+#fifthone{
+	width:100%;
+	height:500px;
+	text-align:center;
+	
+}
+#sixone{
+	background-color:rgb(173,211,0);
+	width:100%;
+	height:400px;
+	margin-top:-300px;
+	text-align:center;
+}
+.media-body{
+	padding-top:100px;
+	padding-left:150px;
+	font-size:0px;
+}
